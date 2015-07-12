@@ -1,12 +1,12 @@
 # Maintainer: Jan Mertens <Jan.JM.Mertens at gmail dot com>
 
 pkgname=aclock-git
-pkgver=9.b1db6cb
+pkgver=10.ab4d9d8
 pkgrel=1
 pkgdesc="Analog clock written in GTK3."
 arch=('i686' 'x86_64')
 url="http://github.com/mertensj/aclock"
-license=('BSD')
+license=('GPL')
 depends=('gtk3')
 source=("git+https://git@github.com/mertensj/aclock.git")
 md5sums=("SKIP")
