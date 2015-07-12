@@ -1,13 +1,14 @@
-pkgbase = aclock-git
+pkgbase = aclock
 	pkgdesc = Analog clock written in GTK3.
-	pkgver = 20150712
+	pkgver = 12.38daf56
 	pkgrel = 1
 	url = http://github.com/mertensj/aclock
 	arch = i686
 	arch = x86_64
-	license = BSD
+	license = GPL
+	depends = gtk3
 	source = git+https://git@github.com/mertensj/aclock.git
 	md5sums = SKIP
 
-pkgname = aclock-git
+pkgname = aclock
 
