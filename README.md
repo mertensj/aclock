@@ -1,1 +1,1 @@
-# aclock: Analogue Clock written in GTK3
+# aclock : Analogue Clock written in GTK3
