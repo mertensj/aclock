@@ -1,8 +1,8 @@
 # Maintainer: Jan Mertens <Jan.JM.Mertens at gmail dot com>
 
 pkgname=aclock
-pkgver=11.7811b28
-pkgrel=1
+pkgver=12.38daf56
+pkgrel=2
 pkgdesc="Analog clock written in GTK3."
 arch=('i686' 'x86_64')
 url="http://github.com/mertensj/aclock"
