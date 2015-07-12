@@ -1,7 +1,7 @@
 # Maintainer: Jan Mertens <Jan.JM.Mertens at gmail dot com>
 
-pkgname=aclock-git
-pkgver=10.ab4d9d8
+pkgname=aclock
+pkgver=11.7811b28
 pkgrel=1
 pkgdesc="Analog clock written in GTK3."
 arch=('i686' 'x86_64')
