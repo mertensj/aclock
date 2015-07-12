@@ -19,11 +19,11 @@ pkgver() {
 }
 
 build() {
-  cd "$srcdir/$_gitname"
+  cd "$srcdir/$_gitname/src"
   make
 }
 
 package() {
-  cd "$srcdir/$_gitname"
+  cd "$srcdir/$_gitname/src"
   install -Dm 755 $_gitname "$pkgdir/usr/bin/$_gitname"
 } 
